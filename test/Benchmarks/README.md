@@ -1,4 +1,4 @@
-# OpenTelemetry Benchmarks
+# OpenTelemetry Benchmarks - Wow!
 
 Navigate to `./test/Benchmarks` directory and run the following command:
 
